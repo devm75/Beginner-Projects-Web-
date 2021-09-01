@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohan
-🔭 I’m currently working on learning technologies related to Web Development and below is list of projects done by me during the learing Journey!
+🔭 I’m currently working on learning technologies related to Web Development and below is a list of projects done by me during the learing Journey!
 
 ## Basic HTML and CSS Projects
 1. Tribute Page ([Live](https:///devm75.github.io/Frontend_Projects/HTML&CSS/Tribute_page)/[Code](https://github.com/devm75/Frontend_Projects/tree/main/HTML%26CSS/Tribute_page))
