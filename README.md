@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohan
-🔭 I’m currently working on learning technologies related to Web Development and below is a list of projects done by me during the learing Journey!
+🔭 I’m currently working as a junior frontend developer and in my free time i like playing around with stuff realted  to Web Development and below is a list of projects done by me during the learing Journey!
 
 ## React Projects
 1. Todo App using Material UI ([Live](https://devm75.github.io/react-todo/)/[Code](https://github.com/devm75/react-todo))
@@ -13,6 +13,7 @@
 3. CountDown Timer ([Live](https://devm75.github.io/Frontend_Projects/VanillaJS/Countdown_timer)/[Code](https://github.com/devm75/Frontend_Projects/tree/main/VanillaJS/Countdown_timer))
 4. Todo App ([Live](https://devm75.github.io/Frontend_Projects/VanillaJS/Todo_app)/[Code](https://github.com/devm75/Frontend_Projects/tree/main/VanillaJS/Todo_app))
 5. Tic Tac Toe Game ([Live](https://devm75.github.io/Frontend_Projects/VanillaJS/Tic_tac_toe_game)/[Code](https://github.com/devm75/Frontend_Projects/tree/main/VanillaJS/Tic_tac_toe_game))
+6. Carousel ([Live](https://devm75.github.io/Css_Carousel/)[Code](https://github.com/devm75/Css_Carousel/tree/master)
 
 
 ## Basic HTML and CSS Projects(Responsive)
