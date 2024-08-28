@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohan
-🔭 I’m currently working as a  Frontend developer and in my free time i like playing around with stuff realted  to Web Development and below is a list of projects done by me during the learing Journey!
+🔭 I’m currently working as a  Frontend developer and in my free time i like playing around with stuff related  to Web Development and below is a list of projects I have done.
 
 ## React Projects
 1. Todo App using Material UI ([Live](https://devm75.github.io/react-todo/)/[Code](https://github.com/devm75/react-todo))
