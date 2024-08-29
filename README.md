@@ -14,7 +14,7 @@
 4. Todo App ([Live](https://devm75.github.io/Frontend_Projects/VanillaJS/Todo_app)/[Code](https://github.com/devm75/Frontend_Projects/tree/main/VanillaJS/Todo_app))
 5. Tic Tac Toe Game ([Live](https://devm75.github.io/Frontend_Projects/VanillaJS/Tic_tac_toe_game)/[Code](https://github.com/devm75/Frontend_Projects/tree/main/VanillaJS/Tic_tac_toe_game))
 6. Carousel ([Live](https://devm75.github.io/Css_Carousel/)/[Code](https://github.com/devm75/Css_Carousel/tree/master))
-7. OTP input ([Live](https://devm75.github.io/otp-input/)/[Code](https://github.com/devm75/otp-input))
+
 
 
 ## Basic HTML and CSS Projects(Responsive)
